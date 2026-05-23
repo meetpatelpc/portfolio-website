@@ -1,0 +1,18 @@
+---
+pid: 14732
+cwd: |
+  C:\Users\DELL
+---
+PS C:\Users\DELL> start index.html
+start : This command cannot be run due to the error: The system cannot find the file specified.
+At line:1 char:1
++ start index.html
++ ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Start-Process], InvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperationException,Microsoft.PowerShell.Commands.StartProce 
+   ssCommand
+ 
+PS C:\Users\DELL> 
+ *  History restored 
+
+PS C:\Users\DELL> 

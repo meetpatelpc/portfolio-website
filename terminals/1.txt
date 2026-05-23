@@ -1,0 +1,12 @@
+---
+pid: 3260
+cwd: |
+  C:\Users\DELL
+---
+PS C:\Users\DELL> 
+ *  History restored 
+
+PS C:\Users\DELL> 
+ *  History restored 
+
+PS C:\Users\DELL> 
