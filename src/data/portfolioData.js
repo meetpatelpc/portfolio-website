@@ -69,7 +69,7 @@ export const projects = [
     tags: ["React", "Vite", "JavaScript", "CSS"],
     features: ["Dark / Light Mode"],
     links: [
-      { label: "Live Demo", href: "#home" },
+      { label: "Live Demo", href: "https://portfolio-website-peach-zeta.vercel.app" },
       {
         label: "GitHub",
         href: "https://github.com/meetpatelpc/portfolio-website",
