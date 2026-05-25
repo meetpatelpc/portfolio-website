@@ -10,7 +10,7 @@ export const profile = {
   github: "https://github.com/meetpatelpc",
   linkedin: "https://linkedin.com",
   photo: "/images/myphoto.jpg",
-  resume: "/resume/Meet_Patel_Resume.pdf",
+  resume: "/resume/Meet_Patel.pdf",
   intro:
     "BCA graduate (2025) with a strong interest in web development and building responsive, user-focused applications. Skilled in HTML, CSS, JavaScript with hands-on experience through academic and personal projects.",
   about:
@@ -84,7 +84,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript","PHP", "MySQL","Bootstrap"],
     features: ["Dark / Light Mode","CRUD Operations"],
     links: [
-      { label: "GitHub", href: "https://github.com/meetpatelpc" },
+      //{ label: "GitHub", href: "https://github.com/meetpatelpc" },
     ],
   },
   {
@@ -95,7 +95,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript","PHP", "MySQL"],
     features: ["CRUD Operations"],
     links: [
-      { label: "GitHub", href: "https://github.com/meetpatelpc" },
+      //{ label: "GitHub", href: "https://github.com/meetpatelpc" },
     ],
   },
 ];
