@@ -29,6 +29,7 @@ export const navLinks = [
   { href: "#projects", label: "Projects" },
   { href: "#education", label: "Education" },
   { href: "#contact", label: "Contact" },
+  { href:  "#certificate", label: "Certificate"}
 ];
 
 export const skills = [
@@ -127,3 +128,17 @@ export const timeline = [
     detail: "Completed with focus on commerce subjects.",
   },
 ];
+
+export const certificates =[
+  {
+    title: "TCS iON Career Edge - Young Professionals",
+    provider: "TCS",
+    date: "2026",
+    links: [
+      {
+        label: "View Certificate", 
+        href: "/certificates/Meet_Patel_TCS_Ad.pdf"
+      },
+    ]
+  },
+]

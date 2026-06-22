@@ -9,6 +9,7 @@ import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Toast from "./components/Toast";
+import Certificate from "./components/Certificate";
 
 export default function App() {
   const [toast, setToast] = useState({ show: false, message: "" });
@@ -26,6 +27,7 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
+        <Certificate/>
         <Education />
         <Contact onToast={showToast} />
       </main>
