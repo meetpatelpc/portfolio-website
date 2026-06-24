@@ -5,7 +5,7 @@ export default function Projects() {
   const ref = useFadeIn();
 
   return (
-    <section className="section section-alt" id="projects" ref={ref}>
+      <section className="section section-alt" id="projects" ref={ref}>
       <div className="container">
         <h2 className="section-title">Projects</h2>
         <p className="section-desc">
