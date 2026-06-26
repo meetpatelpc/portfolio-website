@@ -81,11 +81,12 @@ export const projects = [
     id: "02",
     title: "Event Management System",
     description:
-      "A modern event management platform designed to simplify event planning and booking processes. The system allows users to reserve rooms, choose customized event packages, and manage bookings through an intuitive and responsive interface. Built with a focus on user experience, efficiency, and seamless event coordination.",
-    tags: ["HTML", "CSS", "JavaScript","PHP", "MySQL","Bootstrap"],
-    features: ["Dark / Light Mode","CRUD Operations"],
+      "A modern event management platform designed to simplify event planning and booking processes. The system allows users to  choose customized event packages, and manage bookings through an intuitive and responsive interface. Built with a focus on user experience, efficiency, and seamless event coordination.",
+    tags: ["HTML", "CSS", "JavaScript","PHP", "MySQL"],
+    features: ["CRUD Operations"],
     links: [
-      //{ label: "GitHub", href: "https://github.com/meetpatelpc" },
+      {label: "Live Demo", href:"https://meet-patel-event-management.gt.tc"},
+      { label: "GitHub", href: "https://github.com/meetpatelpc/event-management" },
     ],
   },
   {
