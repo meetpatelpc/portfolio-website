@@ -64,7 +64,7 @@ export const skills = [
 export const projects = [
   {
     id: "01",
-    title: "portfolio-website",
+    title: "Portfolio Website",
     description:
       "Professional portfolio built with React and Vite featuring dark/light theme toggle, scroll animations, contact form, and responsive layout. Showcases projects, skills, and education.",
     tags: ["React", "Vite", "JavaScript", "CSS"],
